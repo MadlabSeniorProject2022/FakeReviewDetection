@@ -1,0 +1,15 @@
+__pycache__/
+.vscode
+
+data/
+
+*.local
+/data
+/research
+/document
+
+# MacOS
+.DS_Store
+
+# temp cache file
+*.temp.*
